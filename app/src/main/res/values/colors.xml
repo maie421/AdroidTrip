@@ -9,4 +9,5 @@
     <color name="input">#FFFFFF</color>
     <color name="button">#3BA19F</color>
     <color name="plus">#d99cac</color>
+    <color name="hint">#BDBDBD</color>
 </resources>
